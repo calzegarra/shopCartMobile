@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Tienda virtual</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="op_inicio_v">Inicio</string>
+    <string name="op_mi_tienda_v">Mi tienda</string>
+    <string name="op_resenia_v">Mis reseñas</string>
+    <string name="op_cerrar_sesion_v">Cerrar Sesión</string>
+    <string name="op_mis_productos_v">Mis productos</string>
+    <string name="op_mis_ordenes_v">Órdenes</string>
+
+    <string name="txt_bienvenido">Bienvenido(a)</string>
+
+    <!-- Comentario-->
+    <string name="txtregistroS">Registro Vendedor</string>
+    <string name="etNombreV">Nombre Completo</string>
+    <string name="etEmailV">Email</string>
+    <string name="etPassword">Password</string>
+    <string name="etCPassword">Confirmar Password</string>
+    <string name="btnRegistrar">Registrarme</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_title">Inicia sesion</string>
+    <string name="login_subtitle">Ingresa tus credenciales para continuar</string>
+    <string name="login_username_hint">Usuario</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_button">Ingresar</string>
+    <string name="login_username_required">Ingresa tu usuario</string>
+    <string name="login_password_required">Ingresa tu password</string>
+    <string name="login_error_default">No se pudo iniciar sesion. Intenta de nuevo.</string>
+    <string name="catalog_title">Catalogo</string>
+    <string name="catalog_welcome">¡Bienvenido %1$s!</string>
+    <string name="catalog_badge_offer">Oferta</string>
+    <string name="catalog_view_button">Ver detalle</string>
+    <string name="catalog_loading">Cargando catalogo...</string>
+    <string name="catalog_empty">No hay productos para mostrar.</string>
+    <string name="catalog_error">No se pudo cargar el catalogo.</string>
+    <string name="menu_profile">Mi perfil</string>
+    <string name="menu_orders">Mis compras</string>
+    <string name="menu_favorites">Favoritos</string>
+    <string name="menu_reviews">Mis reseñas</string>
+    <string name="menu_logout">Cerrar sesión</string>
+    <string name="menu_open">Abrir menú</string>
+    <string name="profile_title">Editar mi perfil</string>
+    <string name="profile_name">Nombre</string>
+    <string name="profile_lastname">Apellido</string>
+    <string name="profile_dni">DNI</string>
+    <string name="profile_address">Dirección</string>
+    <string name="profile_email">Correo electrónico</string>
+    <string name="profile_username">Usuario</string>
+    <string name="profile_password">Contraseña</string>
+    <string name="profile_confirm_password">Confirmar contraseña</string>
+    <string name="profile_choose_image">Elegir avatar</string>
+    <string name="profile_avatar">Avatar</string>
+    <string name="profile_back">Volver</string>
+    <string name="profile_save">Actualizar</string>
+    <string name="profile_required">Campo requerido</string>
+    <string name="profile_password_mismatch">Las contraseñas no coinciden</string>
+    <string name="cart_back">Volver al catálogo</string>
+</resources>

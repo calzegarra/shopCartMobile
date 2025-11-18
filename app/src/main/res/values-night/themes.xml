@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Shopcart" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/azul_steam</item>
+        <item name="colorSurface">@color/azul_steam</item>
+        <item name="colorOnSurface">@android:color/white</item>
+        <item name="colorOnBackground">@android:color/white</item>
+        <item name="android:windowBackground">@color/azul_steam</item>
+        <item name="android:colorBackground">@color/azul_steam</item>
+    </style>
+</resources>
