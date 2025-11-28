@@ -142,7 +142,7 @@ class DetailActivity : AppCompatActivity() {
         binding.consoleText.text = detail.console?.description ?: "-"
         binding.descriptionText.text = detail.description.orEmpty()
 
-        val images = listOfNotNull(detail.image, detail.image2, detail.image3, detail.mini)
+        val images = listOfNotNull(detail.image, detail.image2, detail.image3)
         if (images.isNotEmpty()) {
             setImage(binding.mainImage, images.first())
             renderThumbnails(images)
